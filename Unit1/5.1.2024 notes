@@ -1,0 +1,37 @@
+Converting to base: take the digit you see and multiply by the place (look at conversion tables) 
+0b = binary
+const: You cannot change he bits
+ex. const double Dollor_Per_Hour = 11.50;
+
+integer division: int a = 2 int b = 20
+                  a/b = 2
+                  int a = 2 float b = 20     c++ will not automatically change to floats in division
+                  a/b = 2.5
+
+
+for loop in c++:
+          for (_do before the loop_; _check before each loop_; _do after each loop_)
+          ++ = +=1, -- = -=1 , i +=5
+    for(;;) = while true
+    size_t = unsigned long+
+
+
+    // :D
+#include <iostream>
+
+int main(int argc, char *argv[]){
+   double a = atoi(argv[1]);
+   double b = atoi(argv[2]);
+   double c = atoi(argv[3]);
+
+   if (a < b){
+      for (int i=a;
+
+   }
+   if (a > b){
+
+
+   }
+
+
+}
